@@ -28,7 +28,7 @@ Before starting work make sure to follow our **Guidelines** given below, and fee
     * Designers can create a separate folder for every poster they make and upload their files there, so practically every folder should have at least 2 files one Design File(PSD, AI, etc...) and another Image File(PNG, JPG, MP4, GIF, etc...)
     * There is a limit of 25MB when we upload through the browser, members are therefore requested to the GitHub desktop version which allows uploading up to 100MB files for ease of access.
     * A detailed guide on using GitHub will be posted in the notion workspace shortly
-    * Files exceeding 100MB should be mailed to (tech.studentaffairs@srmist.edu.in)[tech.studentaffairs@srmist.edu.in] with the subject *Github File Limit Exceeded*
+    * Files exceeding 100MB should be mailed to (tech.studentaffairs@srmist.edu.in)[mailto:tech.studentaffairs@srmist.edu.in] with the subject *Github File Limit Exceeded*
     * Every Member is requested to use a different branch with their registration number as the branch name to commit changes to the repository
     * Refrain from using the main or master branches at any cost, *do not push your code directly to the main or master branch* at any cost
     * Once you have pushed your design file the Maintainers will make sure that your work is reflected in the main branch within the next 48 hours
