@@ -10,7 +10,7 @@ Before starting work make sure to follow our **Guidelines** given below, and fee
 * All of you have been assigned to specific teams, members are allowed to only on repositories that have been assigned to their specific teams
 * Although all the members have read access to all the repositories in this organization you have no rights whatsoever to misuse, download or reuse them without prior knowledge of the Maintainers or the Conveners
 
-  ###Instructions for the DevOps(Programming) Team
+  ### Instructions for the DevOps(Programming) Team
   * People not familiar with Git and its workings please refrain from messing with the repositories you'll refer to resources section on the notion page for resources on learning about git and GitHub
    * The members from the **DevOps(Programming)** Team that code in any Javascript framework are requested to follow a specific code style and use the help of (ESLint)[https://eslint.org] to analyze and fix all the errors before pushing their code to the repositories 
   * Refrain from using the main or master branches at any cost, *do not push your code directly to the main or master branch* at any cost
@@ -22,7 +22,7 @@ Before starting work make sure to follow our **Guidelines** given below, and fee
   * Regularly review your commit messages with other contributors to discuss what is working well
   * Make sure to test your code in your localhost before pushing it to the repository and requesting a pull request
   
-    ###Instructions for the Design(Graphics) Team
+    ### Instructions for the Design(Graphics) Team
     * Graphics are only entitled to use the repositories that have been allotted to them, you are to refrain from messing around with the other repositories.
     * Designers are requested to upload both PNG/JPEG files and PSD/AI files to the repository.
     * Designers can create a separate folder for every poster they make and upload their files there, so practically every folder should have at least 2 files one Design File(PSD, AI, etc...) and another Image File(PNG, JPG, MP4, GIF, etc...)
