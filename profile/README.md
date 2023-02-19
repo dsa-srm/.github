@@ -2,7 +2,7 @@
 
 The Team consists of UI/UX Designers, Graphic Designers, Developers, and Testers. We will be going **OPEN Soon** and would be more than happy to welcome people from the Open Source Community to contribute to our projects and help us out in creating social impact products. Our goal is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all of you.
 
-Before starting work make sure to follow our **Guidelines** given below, and feel free to reach out to us at [tech.studentaffairs@srmist.edu.in](mailto:tech.studentaffairs@srmist.edu.in) in case you have any queries
+Before starting work make sure to follow our **Guidelines** given below, and feel free to reach out to us at [techteam.sa@srmist.edu.in](mailto:techteam.sa@srmist.edu.in) in case you have any queries
 
 
 ## How to use the Repos in this Organization (For DSA Members)
